@@ -5,6 +5,6 @@
 * **Pathway A text starter project location:** `/Pathway A/`
 * **Pathway B video tutorial project location:** `/Pathway B/`
 * **Screenshots location:** `/Screenshots/`
-* **Discord proof location:** `/Screenshots/` (if required)
+* **Discord proof location:** `/Screenshots/` 
 * **Assets or libraries location:** `/Pathway A/` and `/Pathway B/`
 * **README location:** `/README.md`
