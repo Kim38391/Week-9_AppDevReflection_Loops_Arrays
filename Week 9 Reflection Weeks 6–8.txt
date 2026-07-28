@@ -39,7 +39,6 @@ If I could redo Weeks 6–8, I would organize my files earlier and document my c
 ## Part 5: Week 9 Coding Practice
 
 ### Pathway A: Text Starter Code
-
 The starter code creates a menu-based program that uses an array to store choices. The program uses loops to display the choices and repeat the menu until the user exits. After running the program in Visual Studio, I will change three choices to customize the program and test that the updated version works correctly.
 
 * **Array used:** Stores the different menu or story choices.
@@ -48,21 +47,19 @@ The starter code creates a menu-based program that uses an array to store choice
 * **Three choices I changed:** I updated three menu or story choices to make the program my own.
 
 ### Pathway B: Video Tutorial
-
 I followed the VB.NET loops tutorial and built the project shown in the video. The tutorial helped me understand how loops can be used to repeat actions and display information. After completing the project, I will make one small personal change by modifying an item, title, menu choice, or information in the program and test the updated version.
 
 * **Project from the video:** VB.NET Loops Tutorial Project.
 * **Loop or loops used:** The loops demonstrated in the tutorial.
-* **My small personal change:** Changed one part of the project to customize it.
+* **My small personal change:** I changed the displayed output from generic table names to ChronoVault-themed "Vault Slot" names.
 * **Screenshot location:** `/Screenshots/`
 
 ## Part 6: Git Submission Map
-
-* **Reflection location:** `/Reflection/Weeks6-8Reflection.md`
-* **Query log location:** `/Reflection/QueryLog.md`
-* **Pathway A text starter project location:** `/PathwayA/`
-* **Pathway B video tutorial project location:** `/PathwayB/`
-* **Screenshots location:** `/Screenshots/`
-* **Discord proof location:** Update this after completing the required Discord post (if required).
-* **Assets or libraries location:** `/Assets/`
-* **README location:** `/README.md`
+Reflection location: /Week 9 Reflection Weeks 6–8.txt
+Query log location: /Query Log.txt
+Pathway A text starter project location: /Pathway A/
+Pathway B video tutorial project location: /Pathway B/
+Screenshots location: /Screenshots/
+Discord proof location: /Screenshots/
+Assets or libraries location: /Pathway A/ and /Pathway B/
+README location: /README.md
